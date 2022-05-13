@@ -5,7 +5,7 @@ body {
 .row {
     display:flex;
     flex-wrap:wrap;
-    padding:0 4px;
+    padding:0 40px;
 }
     
 /* Create four equal columns that sit next to each other */

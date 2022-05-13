@@ -5,9 +5,11 @@ software engineering. Here goes!
 
 This responsive grid layout has always been visually intriguing to me. It reads a little like 
 the game "Memory" from the 1980s and I want to have a mouseover event on each photo to reveal
-a memory or an interesting text anecdote. The photos are pop cultural, art and sports pictures
+a memory or an interesting text anecdote about myself. The photos are pop cultural, art and sports pictures
 of people and events that are important to me or that I love, so it is visual and slightly
-sentimental, but that makes sense given my artistic sensibility.
+sentimental, but that makes sense given my artistic sensibility. I want the user to be able to meander
+over the page and get information, but not be overloaded with a lot of text off the bat. I think sort of
+"nesting" it in the images is a cool way to get information.
 
 The code style is HTML, CSS and JS. I am probably describing that wrong!
 
