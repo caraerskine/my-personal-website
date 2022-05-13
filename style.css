@@ -78,8 +78,41 @@ max-width: 100%;
     text-align: center;
   }
 
+  /* with writing-mode */
+/* h1 {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    color: #852c98;
+    margin: 0.15em 0.75em 0 0;
+    font-family: 'Helvetica';
+    -webkit-writing-mode: vertical-lr;
+    -ms-writing-mode: tb-lr;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    -webkit-font-feature-settings: "vkrn", "vpal";
+    font-feature-settings: "vkrn", "vpal";
+  } */
+
   /* .image {
     display: block;
     width: 100%;
     height: auto;
   } */
+
+.right {
+    position: absolute;
+    /* font-family: "Cooper Black"; */
+    font-size: 40px;
+    color: #008CBA;
+    top: 300px;
+    /* left: 0px; */
+    right: 150px;
+    width: 800px;
+    padding: 20px;
+    /* display: flex; */
+    height: 800px;
+    /* margin: auto; */
+    align-items:right;
+    justify-content:right;
+    transform: rotate(90deg);
+}
