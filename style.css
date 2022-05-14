@@ -116,3 +116,26 @@ max-width: 100%;
     justify-content:right;
     transform: rotate(90deg);
 }
+/* unvisited link */
+a:link {
+    color: yellow;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: pink;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    background-color: magenta;
+  }
+  
+  /* selected link */
+  a:active {
+    color: yellow;
+  } 
+  
+  a:link {
+    text-decoration:none;  
+  }
