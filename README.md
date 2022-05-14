@@ -13,4 +13,10 @@ over the page and get information, but not be overloaded with a lot of text off 
 
 The code style is HTML, CSS and JS. I am probably describing that wrong!
 
+A goal of mine is to have another mouseover event where the images and texts can also be like the backs
+of the "Memory" game cards. I am trying to figure out how to incorporate that. I want it to almost be 
+like flipping a card over, in a sense. 
+
+As I am able to, I will update this with more technical info!
+
 
